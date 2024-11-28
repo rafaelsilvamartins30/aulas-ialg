@@ -1,3 +1,5 @@
+//produto escalar de 2 vetores
+
 #include <iostream>
 
 using namespace std;
