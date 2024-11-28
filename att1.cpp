@@ -1,3 +1,5 @@
+//achar media moda maior numero e menor
+
 #include <iostream>
 
 using namespace std;
